@@ -1,0 +1,4 @@
+server:
+  node1:
+    username: admin
+    password: somePass!
